@@ -18,3 +18,5 @@ src/test/
 *.iws
 *.iml
 *.ipr
+config.bat
+node_modules
